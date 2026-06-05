@@ -1,0 +1,6 @@
+{
+  "name": "Perruqueria Elisenda",
+  "description": "Peluquería y estética profesional en L'Espluga de Francolí",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
